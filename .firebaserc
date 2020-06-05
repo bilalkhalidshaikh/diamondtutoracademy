@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "daimondacademy",
+    "diamond": "diamondacademy",
+    "diamondacademy": "diamondacademy"
+  }
+}
